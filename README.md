@@ -1,0 +1,1 @@
+This project is a sligtly modified version of the Miwok project in th Udacity Android Basics nanodegree. This version incorporates fragments instead of activities. The project also uses data binding to make the code shorter and more concise.
